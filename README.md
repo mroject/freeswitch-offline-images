@@ -2,6 +2,8 @@
 
 freeswitch version: 1.10.6
 
+tested by centos 7.x & redhat 7.x
+
 **download iso file**: [mroject/freeswitch offline image 1.0.0](https://github.com/mroject/freeswitch-offline-images/releases/tag/1.0.0)
 
 In a private network or no network environment, install FreeSWITCH offline and use the iso image to quickly install it.
