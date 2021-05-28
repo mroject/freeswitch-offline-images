@@ -2,6 +2,8 @@
 
 freeswitch version: 1.10.6
 
+**download iso file**: [mroject/freeswitch offline image 1.0.0](https://github.com/mroject/freeswitch-offline-images/releases/tag/1.0.0)
+
 In a private network or no network environment, install FreeSWITCH offline and use the iso image to quickly install it.
 
 在私网或者无网络环境，离线安装FreeSWITCH，使用iso镜像快速安装。
